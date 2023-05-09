@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/perleklak" target="blank"><img src="https://img.shields.io/twitter/follow/perleklak?logo=twitter&style=for-the-badge" alt="perleklak" /></a> </p>
 
-- 📝 I regularly write articles on [medium.com](medium.com)
-
 - 💬 Ask me about **Java, Spring boot, NestJS, Node**
 
 - 📫 How to reach me **azens1995@gmail.com**
