@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eklak Dangaura</h1>
 <h3 align="center">A Full-Stack Developer from Nepal.</h3>
+<h4 align="center">Specialized in US Healthcare<br/> EHR,HL7, FHIR APIs, Athena Health, MM</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azens1995&label=Profile%20views&color=0e75b6&style=flat" alt="azens1995" /> </p>
 
