@@ -1,14 +1,13 @@
-<h1 align="center">Hi dear👋, It's me Eklak Dangaura, A FullStack Product Engineer from Nepal.</h1>
-<h2 align="center">Please find my another professional profile here: <a href="https://github.com/eklak-hz" target="_blank">Eklak Houzz</a> </h2>
-<h2 align="center">Since 2016, I have been working with in tech industry using different mobile and web tools for solving and expanding business needs.</h2>
-<h3 align="center">
-  Here are some of my skills that I have used throughout my journey.
-<h3>
+<h2>Hi 👋</h2>
+<p>I'm <b>Eklak</b>, a <b>Full-Stack Software Engineer</b> with <b><i>8 years</i></b> of industry experience</p>
+<p><b></b></p>
+<h4>Experienced in both mobile and web development</h4>
+<h3>My Strengths:<h3>
 <ul>
   <li>Expertise in US HealthCare specifically integrating products with EHRs</li>
   <li>Production grade experience in handling various third-party integrations including QuickBooks Online, Xero, Salesforce, Twilio, and various other applications</li>
   <li>Deep understanding of HL7, FHIR, SMART on FHIR apps, Athena Health, Modernizing Medicine</li>
-  <li>Polyglot developer having deep experience with Java, JavaScript, TypeScript and various related frameworks</li>
+  <li>Polyglot developer with deep experience with Java, JavaScript, TypeScript, and various related frameworks</li>
 </ul>
 
 <p align="left">
